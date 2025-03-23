@@ -134,7 +134,7 @@
     <ClCompile Include="SwitchCaseEx1.cpp" />
     <ClCompile Include="SwitchCaseEx2.cpp" />
     <ClCompile Include="WhileEx1.cpp" />
-    <ClCompile Include="WhileEX2.cpp" />
+    <ClCompile Include="WhileEx2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

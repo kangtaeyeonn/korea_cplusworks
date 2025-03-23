@@ -30,7 +30,7 @@
     <ClCompile Include="WhileEx1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="WhileEX2.cpp">
+    <ClCompile Include="WhileEx2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="KeyRepeat.cpp">
