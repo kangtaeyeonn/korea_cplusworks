@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\IFEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\IFEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\InputEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\InputEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\Operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\Operator1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Operator1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\Variable2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Variable2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\TypeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\TypeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|C:\\cplusworks\\Project1\\Project1\\Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250C8141-6B36-41E6-8906-4117949C4FDE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\IFEx.cpp",
+              "RelativeDocumentMoniker": "Project1\\IFEx.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\IFEx.cpp",
+              "RelativeToolTip": "Project1\\IFEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:40:12.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\InputEx.cpp",
+              "RelativeDocumentMoniker": "Project1\\InputEx.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\InputEx.cpp",
+              "RelativeToolTip": "Project1\\InputEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:15:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operator2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\Operator2.cpp",
+              "RelativeDocumentMoniker": "Project1\\Operator2.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\Operator2.cpp",
+              "RelativeToolTip": "Project1\\Operator2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:01:54.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operator1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\Operator1.cpp",
+              "RelativeDocumentMoniker": "Project1\\Operator1.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\Operator1.cpp",
+              "RelativeToolTip": "Project1\\Operator1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T01:38:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeConversion.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\TypeConversion.cpp",
+              "RelativeDocumentMoniker": "Project1\\TypeConversion.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\TypeConversion.cpp",
+              "RelativeToolTip": "Project1\\TypeConversion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T01:24:16.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Variable2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\Variable2.cpp",
+              "RelativeDocumentMoniker": "Project1\\Variable2.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\Variable2.cpp",
+              "RelativeToolTip": "Project1\\Variable2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T01:05:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Variable.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Project1\\Project1\\Variable.cpp",
+              "RelativeDocumentMoniker": "Project1\\Variable.cpp",
+              "ToolTip": "C:\\cplusworks\\Project1\\Project1\\Variable.cpp",
+              "RelativeToolTip": "Project1\\Variable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:41:07.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Choicel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\ForEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\ForEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\WhileEX2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\WhileEX2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\IfElseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\IfElseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|C:\\cplusworks\\Choicel\\Choicel\\ifElseEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDE7D46-2736-4869-80DD-63F81D1F390B}|Choicel\\Choicel.vcxproj|solutionrelative:Choicel\\ifElseEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\ForEx1.cpp",
+              "RelativeDocumentMoniker": "Choicel\\ForEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\ForEx1.cpp*",
+              "RelativeToolTip": "Choicel\\ForEx1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:44:13.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyRepeat.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\KeyRepeat.cpp",
+              "RelativeDocumentMoniker": "Choicel\\KeyRepeat.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\KeyRepeat.cpp",
+              "RelativeToolTip": "Choicel\\KeyRepeat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:28:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhileEX2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\WhileEX2.cpp",
+              "RelativeDocumentMoniker": "Choicel\\WhileEX2.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\WhileEX2.cpp",
+              "RelativeToolTip": "Choicel\\WhileEX2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:19:21.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WhileEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\WhileEx1.cpp",
+              "RelativeDocumentMoniker": "Choicel\\WhileEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\WhileEx1.cpp",
+              "RelativeToolTip": "Choicel\\WhileEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:06:03.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwitchCaseEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\SwitchCaseEx2.cpp",
+              "RelativeDocumentMoniker": "Choicel\\SwitchCaseEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\SwitchCaseEx2.cpp",
+              "RelativeToolTip": "Choicel\\SwitchCaseEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:46:59.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwitchCaseEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\SwitchCaseEx1.cpp",
+              "RelativeDocumentMoniker": "Choicel\\SwitchCaseEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\SwitchCaseEx1.cpp",
+              "RelativeToolTip": "Choicel\\SwitchCaseEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:38:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IfElseEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\IfElseEx2.cpp",
+              "RelativeDocumentMoniker": "Choicel\\IfElseEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\IfElseEx2.cpp",
+              "RelativeToolTip": "Choicel\\IfElseEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:23:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ifElseEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Choicel\\Choicel\\ifElseEx.cpp",
+              "RelativeDocumentMoniker": "Choicel\\ifElseEx.cpp",
+              "ToolTip": "C:\\cplusworks\\Choicel\\Choicel\\ifElseEx.cpp",
+              "RelativeToolTip": "Choicel\\ifElseEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:10:19.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
