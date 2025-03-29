@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0AC31CF0-2488-4BA5-B1B3-9A98142F4CE2}|Arrays\\Arrays.vcxproj|C:\\cplusworks\\Arrays\\Arrays\\ArrayMax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AC31CF0-2488-4BA5-B1B3-9A98142F4CE2}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayMax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC31CF0-2488-4BA5-B1B3-9A98142F4CE2}|Arrays\\Arrays.vcxproj|C:\\cplusworks\\Arrays\\Arrays\\ArrayInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AC31CF0-2488-4BA5-B1B3-9A98142F4CE2}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AC31CF0-2488-4BA5-B1B3-9A98142F4CE2}|Arrays\\Arrays.vcxproj|C:\\cplusworks\\Arrays\\Arrays\\ArrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0AC31CF0-2488-4BA5-B1B3-9A98142F4CE2}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayMax.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Arrays\\Arrays\\ArrayMax.cpp",
+              "RelativeDocumentMoniker": "Arrays\\ArrayMax.cpp",
+              "ToolTip": "C:\\cplusworks\\Arrays\\Arrays\\ArrayMax.cpp",
+              "RelativeToolTip": "Arrays\\ArrayMax.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T00:34:50.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayInt.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Arrays\\Arrays\\ArrayInt.cpp",
+              "RelativeDocumentMoniker": "Arrays\\ArrayInt.cpp",
+              "ToolTip": "C:\\cplusworks\\Arrays\\Arrays\\ArrayInt.cpp",
+              "RelativeToolTip": "Arrays\\ArrayInt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T00:21:06.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ArrayString.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Arrays\\Arrays\\ArrayString.cpp",
               "RelativeDocumentMoniker": "Arrays\\ArrayString.cpp",
               "ToolTip": "C:\\cplusworks\\Arrays\\Arrays\\ArrayString.cpp",
               "RelativeToolTip": "Arrays\\ArrayString.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-23T02:46:16.099Z",
               "EditorCaption": ""

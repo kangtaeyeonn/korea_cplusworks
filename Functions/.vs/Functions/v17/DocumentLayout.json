@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|C:\\cplusworks\\Functions\\Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|C:\\cplusworks\\Functions\\Functions\\MathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|solutionrelative:Functions\\MathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|C:\\cplusworks\\Functions\\Functions\\ReturnFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|solutionrelative:Functions\\ReturnFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|C:\\cplusworks\\Functions\\Functions\\VoidFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|solutionrelative:Functions\\VoidFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\TimeEx.cpp",
+              "RelativeDocumentMoniker": "Functions\\TimeEx.cpp",
+              "ToolTip": "C:\\cplusworks\\Functions\\Functions\\TimeEx.cpp",
+              "RelativeToolTip": "Functions\\TimeEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T01:40:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\MathEx.cpp",
+              "RelativeDocumentMoniker": "Functions\\MathEx.cpp",
+              "ToolTip": "C:\\cplusworks\\Functions\\Functions\\MathEx.cpp",
+              "RelativeToolTip": "Functions\\MathEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T01:29:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnFunction.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\ReturnFunction.cpp",
+              "RelativeDocumentMoniker": "Functions\\ReturnFunction.cpp",
+              "ToolTip": "C:\\cplusworks\\Functions\\Functions\\ReturnFunction.cpp",
+              "RelativeToolTip": "Functions\\ReturnFunction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T01:18:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoidFunction.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\VoidFunction.cpp",
+              "RelativeDocumentMoniker": "Functions\\VoidFunction.cpp",
+              "ToolTip": "C:\\cplusworks\\Functions\\Functions\\VoidFunction.cpp",
+              "RelativeToolTip": "Functions\\VoidFunction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T01:11:12.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
