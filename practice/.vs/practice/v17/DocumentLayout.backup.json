@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\cplusworks\\practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{259B0029-953A-4A7A-ABC9-E03A891EED6F}|practice\\practice.vcxproj|C:\\cplusworks\\practice\\practice\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{259B0029-953A-4A7A-ABC9-E03A891EED6F}|practice\\practice.vcxproj|solutionrelative:practice\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{259B0029-953A-4A7A-ABC9-E03A891EED6F}|practice\\practice.vcxproj|C:\\cplusworks\\practice\\practice\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{259B0029-953A-4A7A-ABC9-E03A891EED6F}|practice\\practice.vcxproj|solutionrelative:practice\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayTest.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\practice\\practice\\ArrayTest.cpp",
+              "RelativeDocumentMoniker": "practice\\ArrayTest.cpp",
+              "ToolTip": "C:\\cplusworks\\practice\\practice\\ArrayTest.cpp",
+              "RelativeToolTip": "practice\\ArrayTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:10:39.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Seat.cpp",
               "DocumentMoniker": "C:\\cplusworks\\practice\\practice\\Seat.cpp",
               "RelativeDocumentMoniker": "practice\\Seat.cpp",
-              "ToolTip": "C:\\cplusworks\\practice\\practice\\Seat.cpp*",
-              "RelativeToolTip": "practice\\Seat.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\practice\\practice\\Seat.cpp",
+              "RelativeToolTip": "practice\\Seat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-29T00:48:01.521Z",
               "EditorCaption": ""

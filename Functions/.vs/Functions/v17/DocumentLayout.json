@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Functions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|C:\\cplusworks\\Functions\\Functions\\RandEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|solutionrelative:Functions\\RandEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|C:\\cplusworks\\Functions\\Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C36F84A4-C440-4969-BA99-47103CC03363}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RandEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\RandEx.cpp",
+              "RelativeDocumentMoniker": "Functions\\RandEx.cpp",
+              "ToolTip": "C:\\cplusworks\\Functions\\Functions\\RandEx.cpp",
+              "RelativeToolTip": "Functions\\RandEx.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:27:00.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TimeEx.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\TimeEx.cpp",
               "RelativeDocumentMoniker": "Functions\\TimeEx.cpp",
               "ToolTip": "C:\\cplusworks\\Functions\\Functions\\TimeEx.cpp",
               "RelativeToolTip": "Functions\\TimeEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-29T01:40:23.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MathEx.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\MathEx.cpp",
               "RelativeDocumentMoniker": "Functions\\MathEx.cpp",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Functions\\MathEx.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:29:44.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T01:29:44.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReturnFunction.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\ReturnFunction.cpp",
               "RelativeDocumentMoniker": "Functions\\ReturnFunction.cpp",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Functions\\ReturnFunction.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:18:18.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T01:18:18.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VoidFunction.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Functions\\Functions\\VoidFunction.cpp",
               "RelativeDocumentMoniker": "Functions\\VoidFunction.cpp",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Functions\\VoidFunction.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:11:12.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T01:11:12.886Z"
             }
           ]
         }
